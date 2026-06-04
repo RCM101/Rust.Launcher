@@ -2,7 +2,7 @@
   "name": "rust-launcher-pro",
   "version": "1.0.0",
   "description": "Beautiful Rust game launcher with Steam integration and performance boost",
-  "main": "dist/main/index.js",
+  "main": "src/main.ts",
   "homepage": "./",
   "author": "RCM101",
   "license": "GPL-3.0",
